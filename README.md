@@ -6,7 +6,7 @@ My first attempt at using Unity to create video games
 
 Much like Flappy Bird, use the spacebar to move the dog (Jill) between the green pipes. Be careful not to hit them or your game is over!
 
-For a video demonstration, click here: https://youtu.be/JeZNzwzwIZY
+For a video demonstration, click here: https://youtu.be/0r-rywbDpkA
 
 Note: the video quality is not that great 😬
 
