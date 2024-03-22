@@ -8,8 +8,6 @@ Much like Flappy Bird, use the spacebar to move the dog (Jill) between the green
 
 For a video demonstration, click here: https://youtu.be/0r-rywbDpkA
 
-Note: the video quality is not that great 😬
-
 ## System Requirements
 1. Unity
 2. Windows system
